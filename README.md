@@ -1,4 +1,4 @@
-# Bytology-demo
+# react-dotNetCore-demo
 this is a simple frontend and backend code for Bytology company
 
 # steps to run the projects:-
