@@ -1,5 +1,5 @@
 # react-dotNetCore-demo
-this is a simple frontend and backend code for Bytology company
+this is a simple frontend and backend code (React + Redux and .Net Core)
 
 # steps to run the projects:-
 
